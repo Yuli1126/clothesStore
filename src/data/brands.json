@@ -1,0 +1,17 @@
+[
+{"id":1, "name": "Studio F", "idCategory":1 ,"selected": false},
+{"id":2, "name": "Koaj", "idCategory":1, "selected": false},
+{"id":3, "name": "Quest", "idCategory":1, "selected": false},
+{"id":4, "name": "LG",  "idCategory":2, "selected": false},
+{"id":5, "name": "Samsung", "idCategory":2, "selected": false},
+{"id":6, "name": "Motorola",  "idCategory":2, "selected": false},
+{"id":7, "name": "Kalinda",  "idCategory":3, "selected": false},
+{"id":8, "name": "Bfk", "idCategory":3, "selected": false},
+{"id":9, "name": "Gala", "idCategory":3, "selected": false},
+{"id":10, "name": "Adidas", "idCategory":4, "selected": false},
+{"id":11, "name": "Nike", "idCategory":4, "selected": false},
+{"id":12, "name": "Puma", "idCategory":4, "selected": false},
+{"id":13, "name": "Totto", "idCategory":5, "selected": false},
+{"id":14, "name": "Hasbro", "idCategory":5, "selected": false},
+{"id":15, "name": "Corona", "idCategory":5, "selected": false}
+]
